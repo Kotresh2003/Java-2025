@@ -8,7 +8,7 @@ public class literals {
      float f1 = 5.6f;
      double d1 = 4.45;
      boolean b = true;
-     System.out.println(ageDino);
+     System.out.println(b);
      String str = "Kotresh";
      System.out.println(str);  
  }
